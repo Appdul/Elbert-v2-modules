@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/localadmin/Documents/FPGA/elbert-tut/localadmin/Documents/FPGA/testBox_isim_beh.exe" -prj "C:/Users/localadmin/Documents/FPGA/elbert-tut/localadmin/Documents/FPGA/testBox_beh.prj" "work.testBox" "work.glbl" 
